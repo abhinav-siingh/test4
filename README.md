@@ -1,3 +1,31 @@
+# LeetCode DSA Solutions – Java
+
+A structured collection of my **LeetCode Data Structures and Algorithms (DSA) solutions in Java**.
+
+This repository contains solutions organized by problem-solving patterns and data structures, with a focus on improving **DSA fundamentals, logical thinking, time/space complexity analysis, and coding skills**.
+
+---
+
+## 🎯 Objectives
+
+- Build strong Data Structures & Algorithms fundamentals
+- Solve LeetCode problems consistently
+- Understand different problem-solving patterns
+- Improve coding and problem-solving skills in Java
+- Analyze Time and Space Complexity
+- Prepare for technical interviews and coding assessments
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Java
+- **Platform:** LeetCode
+- **IDE:** IntelliJ IDEA / VS Code
+- **Version Control:** Git & GitHub
+
+---
+
 # test4
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -33,11 +61,7 @@
 | [0009-palindrome-number](https://github.com/abhinav-siingh/test4/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhinav-siingh/test4/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinav-siingh/test4/tree/master/0013-roman-to-integer) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/abhinav-siingh/test4/tree/master/0002-add-two-numbers) |
-| [0010-regular-expression-matching](https://github.com/abhinav-siingh/test4/tree/master/0010-regular-expression-matching) |
+
 ## String
 |  |
 | ------- |
@@ -53,10 +77,7 @@
 | [0022-generate-parentheses](https://github.com/abhinav-siingh/test4/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhinav-siingh/test4/tree/master/0038-count-and-say) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-siingh/test4/tree/master/0003-longest-substring-without-repeating-characters) |
+
 ## Binary Search
 |  |
 | ------- |
@@ -77,12 +98,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-siingh/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-siingh/test4/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/abhinav-siingh/test4/tree/master/0005-longest-palindromic-substring) |
-| [0010-regular-expression-matching](https://github.com/abhinav-siingh/test4/tree/master/0010-regular-expression-matching) |
-| [0022-generate-parentheses](https://github.com/abhinav-siingh/test4/tree/master/0022-generate-parentheses) |
+
 ## Manacher
 |  |
 | ------- |
@@ -113,21 +129,5 @@
 ## String Matching
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/abhinav-siingh/test4/tree/master/0022-generate-parentheses) |
+
 <!---LeetCode Topics End-->
