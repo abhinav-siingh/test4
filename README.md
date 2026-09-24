@@ -42,6 +42,7 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-siingh/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-siingh/test4/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhinav-siingh/test4/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/abhinav-siingh/test4/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-siingh/test4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/abhinav-siingh/test4/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinav-siingh/test4/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/abhinav-siingh/test4/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0022-generate-parentheses](https://github.com/abhinav-siingh/test4/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhinav-siingh/test4/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/abhinav-siingh/test4/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhinav-siingh/test4/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
@@ -115,6 +118,7 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0015-3sum](https://github.com/abhinav-siingh/test4/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhinav-siingh/test4/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhinav-siingh/test4/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/abhinav-siingh/test4/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
