@@ -61,7 +61,6 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0009-palindrome-number](https://github.com/abhinav-siingh/test4/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhinav-siingh/test4/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinav-siingh/test4/tree/master/0013-roman-to-integer) |
-
 ## String
 |  |
 | ------- |
@@ -77,7 +76,6 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0022-generate-parentheses](https://github.com/abhinav-siingh/test4/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhinav-siingh/test4/tree/master/0038-count-and-say) |
-
 ## Binary Search
 |  |
 | ------- |
@@ -98,7 +96,6 @@ This repository contains solutions organized by problem-solving patterns and dat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-siingh/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-siingh/test4/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-siingh/test4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 ## Manacher
 |  |
 | ------- |
@@ -129,5 +126,4 @@ This repository contains solutions organized by problem-solving patterns and dat
 ## String Matching
 |  |
 | ------- |
-
 <!---LeetCode Topics End-->
